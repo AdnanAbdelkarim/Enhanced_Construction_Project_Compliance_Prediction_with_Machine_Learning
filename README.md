@@ -133,15 +133,17 @@ openpyxl
 
 ---
 
+## 📜 License & Attribution
+
+Authors: Adnan Abdelkarim and Dr. Uzair Ahmed  
+This work is part of an academic research project. Please cite the corresponding publication when referencing this work.
+
+---
+
 ## 🙌 Acknowledgements
 
 Supervision: Dr. Uzair Ahmed  
 Special thanks to the original study authors for enabling this comparison and enhancement through open data and transparent methodology.
 
----
 
-## 📜 License & Attribution
-
-Authors: Adnan Abdelkarim and Dr. Uzair Ahmed  
-This work is part of an academic research project. Please cite the corresponding publication when referencing this work.
 
