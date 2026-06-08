@@ -81,7 +81,7 @@ visuals/block_diagram_comparison.png
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AdnanAbdelkarim/Enhanced_Construction_Project_Compliance_Prediction_with_Machine_Learning.git
-   cd Capstone_Projects
+   cd Enhanced_Construction_Projects_Compliance
    ```
 
 2. **Create a virtual environment**
